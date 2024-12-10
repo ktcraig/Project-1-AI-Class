@@ -38,6 +38,7 @@ Our research questions to answer:
 3) S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
 
 # Rough breakdown of tasks:
+1) Read Me created
 
 # Project Proposal:
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/0deb3284-4040-4758-8e33-a80ff63b4b87">
