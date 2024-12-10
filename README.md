@@ -23,6 +23,6 @@ While working for a government official, you are tasked with researching auto ac
 
 # Rough breakdown of tasks:
 
-Project Proposal
+# Project Proposal:
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/0deb3284-4040-4758-8e33-a80ff63b4b87">
 
