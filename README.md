@@ -28,7 +28,7 @@ Our research questions to answer:
 2) What is the forecasted value of Precious Metals for 1 year from now?
 3) What is the forecasted value of Index Fund for 1 year from now?
 4) Which fund would return the highest yield in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
-5) Which fund would be the riskiest to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
+5) Which fund would be the lowest risk to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
 
 # Dataset(s) to be used:
 
