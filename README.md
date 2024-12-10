@@ -1,4 +1,4 @@
-# Project 1: What will the price of bitcoin be in 2025?
+# Project 1: What will the price of Bitcoin be in 2025?
 
 # Contributors:
 Team 5: Joel Freeman, Roderick Burroughs, Katie Craig, Sowmayalata Shetty, Matthew Ward, Pablo Romero
@@ -6,24 +6,21 @@ Team 5: Joel Freeman, Roderick Burroughs, Katie Craig, Sowmayalata Shetty, Matth
 TA: Rimi
 
 # Summary:
-This reposity is the team X's Project 1 Class Repository. This is the public, group repository to organize our challenge about XX.
+This reposity is the team X's Project 1 Class Repository. This is the public, group repository to organize our challenge about Project 1.
 
 This repository contains:
 
-1)
+1) Project: https://docs.google.com/document/d/1h2meo9mW-7fjsgArKoccDLvUSAMOCQ05qR5k1jyypgs/edit?usp=sharing
 
-2)
+2) Data:  Bitcoin price - https://www.investing.com/crypto/bitcoin/historical-data, Gold price-
 
-3)
+3) 
 
 4)
 
 # Research question(s) to answer:
-While working for a government official, you are tasked with researching auto accident frequency. Your legislator wants to invest their state resources and budget to reduce traffic deaths and crash injuries during the next few years and needs expert analysis to make the right decision about what regulations to advocate for.
+ 1) What 
 
-1) Using US Department of Transportation's National Highway Traffic Safety Administration (NHTSA) data for traffic, which types of accidents are trending upward?
-2) Which types of accidents are trending downward?
-4) Based on the data, what would you recommend to your legislator?
 
 # Dataset(s) to be used:
 
@@ -32,4 +29,5 @@ While working for a government official, you are tasked with researching auto ac
 # Project Proposal:
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/0deb3284-4040-4758-8e33-a80ff63b4b87">
 
-https://docs.google.com/document/d/1h2meo9mW-7fjsgArKoccDLvUSAMOCQ05qR5k1jyypgs/edit?usp=sharing
+
+
