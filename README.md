@@ -21,17 +21,21 @@ This repository contains:
 5) Final Presentation
 
 # Research question(s) to answer:
-While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Precious metals, Bitcoin or an index fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
+While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
 
-Which stocks are trending upward? Which are trending downward? Based on the data, what would you recommend to your client?2019 to 2024 
+Our research questions to answer:
+1) What is the forecasted value of Bitcoin for 1 year from now?
+2) What is the forecasted value of Precious Metals for 1 year from now?
+3) What is the forecasted value of Index Fund for 1 year from now?
+4) What fund should the client invest in for the highest return in 1 year: **Bitcoin, Precious Metals, or an Index Fund.**
 
 # Dataset(s) to be used:
 
-Data Bitcoin Price: https://www.investing.com/crypto/bitcoin/historical-data
+1) Data Bitcoin Price: https://www.investing.com/crypto/bitcoin/historical-data
 
-Gold Bitcoin Price:https://www.moneymetals.com/gold-price-history
+2) Gold Bitcoin Price:https://www.moneymetals.com/gold-price-history
 
-S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
+3) S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
 
 # Rough breakdown of tasks:
 
