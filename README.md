@@ -1,7 +1,6 @@
 # Project 1: What will the price of Bitcoin be in 2025?
 
 # Team: Money Miners
-# Contributors:
 Team 5: Joel Freeman, Roderick Burroughs, Katie Craig, Sowmayalata Shetty, Matthew Ward, Pablo Romero
 
 TA: Rimi
