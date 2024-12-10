@@ -39,6 +39,15 @@ Our research questions to answer:
 
 # Rough breakdown of tasks:
 1) Read Me created
+2) Google Colab folder created
+3) Project Charter decided on
+4) Data identified
+5) Data downloaded as CSV
+6) Data CSVs uploaded to Colab folder
+7) Presentation Created
+8) Demo outlined
+9) Presentation Completed in Class
+10) Github Link submitted in Project 1 submission by each team member
 
 # Project Proposal:
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/0deb3284-4040-4758-8e33-a80ff63b4b87">
