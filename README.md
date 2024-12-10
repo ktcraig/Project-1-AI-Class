@@ -18,7 +18,7 @@ This repository contains:
 
 4)
 
-# Research questions(s) to answer:
+# Research question(s) to answer:
 While working for a government official, you are tasked with researching auto accident frequency. Your legislator wants to invest their state resources and budget to reduce traffic deaths and crash injuries during the next few years and needs expert analysis to make the right decision about what regulations to advocate for.
 
 1) Using US Department of Transportation's National Highway Traffic Safety Administration (NHTSA) data for traffic, which types of accidents are trending upward?
