@@ -24,9 +24,9 @@ This repository contains:
 While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
 
 Our research questions to answer:
-1) What is the forecasted value of Bitcoin for 1 year from now?
-2) What is the forecasted value of Precious Metals for 1 year from now?
-3) What is the forecasted value of Index Fund for 1 year from now?
+1) What is the forecasted value of Bitcoin for 1 year from now? The value of Bitcoin is forecasted to be **124964.108004** on 12/29/25 (ythat)
+2) What is the forecasted value of Precious Metals (Gold) for 1 year from now?
+3) What is the forecasted value of Index Fund (SP500) for 1 year from now?
 4) Which fund would you recommend for the **highest yield** in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
 5) Which fund would you recommend for **lowest risk** to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
 
