@@ -34,7 +34,7 @@ Our research questions to answer:
 
 1) Data Bitcoin Price: https://www.investing.com/crypto/bitcoin/historical-data
 
-2) Gold Bitcoin Price:https://www.moneymetals.com/gold-price-history
+2) Gold Bitcoin Price: https://www.investing.com/commodities/gold-historical-data
 
 3) S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
 
