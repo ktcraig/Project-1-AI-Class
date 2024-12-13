@@ -6,7 +6,7 @@ Team 5: Joel Freeman, Roderick Burroughs, Katie Craig, Sowmayalata Shetty, Matth
 TA: Rimi
 
 # Summary:
-This reposity is the team X's Project 1 Class Repository. This is the public, group repository to organize our challenge about Project 1.
+This reposity is the team Money Miner's Project 1 Class Repository. This is the public, group repository to organize our challenge about Project 1.
 
 This repository contains:
 
