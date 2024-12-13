@@ -50,9 +50,6 @@ Our research questions to answer:
 9) Presentation Completed in Class
 10) Github Link submitted in Project 1 submission by each team member
 
-# Project Proposal:
-<img width="635" alt="image" src="https://github.com/user-attachments/assets/0deb3284-4040-4758-8e33-a80ff63b4b87">
-
 # Project Requirements:
 **Requirements**
 
