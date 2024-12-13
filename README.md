@@ -27,7 +27,7 @@ Our research questions to answer:
 1) What is the forecasted value of Bitcoin for 1 year from now? The value of Bitcoin is forecasted to be **$124,964.108004** on 12/29/25 (ythat)
 2) What is the forecasted value of Precious Metals (Gold) for 1 year from now? The value of Gold is forecasted to be **$3460.329886** on 12/29/25 (ythat)
 3) What is the forecasted value of Index Fund (SP500) for 1 year from now? The value of Gold is forecasted to be **$7522.829784** on 12/29/25 (ythat)
-4) Which fund would you recommend for the **highest yield** in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
+4) Which fund would you recommend for the **highest yield** in 1 year: We would recommend **Bitcoin** for the highest yield at the end of the year
 5) Which fund would you recommend for **lowest risk** to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
 
 # Dataset(s) to be used:
