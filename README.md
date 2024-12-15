@@ -21,7 +21,7 @@ This repository contains:
 5) Final Presentation
 
 # Research question(s) to answer:
-While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
+While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2014 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
 
 Our research questions to answer:
 1) What is the forecasted value of Bitcoin for 1 year from now? The value of Bitcoin is forecasted to be **$124,964.108004** on 12/29/25 (ythat)
