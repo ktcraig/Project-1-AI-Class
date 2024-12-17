@@ -1,8 +1,9 @@
-# Project 1: Investing in 2025
+![alt text](https://github.com/ktcraig/Project-1-AI-Class/blob/main/Money%20Miners%20Header.png)
 
-# Team: Money Miners
-Team 5: Katie Craig, Sowmya Shetty, Matthew Ward, Joel Freeman, Pablo Romero, Roderick Burroughs
-TA: Rimi
+
+**Team Members**: Katie Craig, Sowmya Shetty, Matthew Ward, Joel Freeman, Pablo Romero, Roderick Burroughs
+
+**TA**: Rimi
 
 # Summary:
 This reposity is the team Money Miner's Project 1 Class Repository. This is the public, group repository to organize our challenge about Project 1.
