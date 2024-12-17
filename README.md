@@ -25,22 +25,25 @@ While working for a large equity-trading company, you’re tasked with researchi
 Our research questions to answer:
 1) What is the forecasted value of Bitcoin for 1 year from now?
    ```diff
-   The value of Bitcoin is forecasted to be **$124,964.108004** on 12/29/25 (ythat)
+   The value of Bitcoin is forecasted to be $124,964.108004 on 12/29/25 (ythat)
     ```
-4) What is the forecasted value of Precious Metals (Gold) for 1 year from now?
-   
-   The value of Gold is forecasted to be **$3460.329886** on 12/29/25 (ythat)
+2) What is the forecasted value of Precious Metals (Gold) for 1 year from now?
+   ```diff
+   The value of Gold is forecasted to be $3460.329886 on 12/29/25 (ythat)
     ```
-6) What is the forecasted value of Index Fund (SP500) for 1 year from now?
+3) What is the forecasted value of Index Fund (SP500) for 1 year from now?
    ```diff
-   The value of Gold is forecasted to be **$7522.829784** on 12/29/25 (ythat)
+   The value of Gold is forecasted to be $7522.829784 on 12/29/25 (ythat)
    ```
-8) Which fund would you recommend for the **highest yield** in 1 year:
+4) Which fund would you recommend for the **highest yield** in 1 year:
    ```diff
-   We would recommend **Bitcoin** for the highest yield at the end of the year
+   We would recommend Bitcoin for the highest yield at the end of the year
    ```
    
-10) Which fund would you recommend for **lowest risk** to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
+5) Which fund would you recommend for **lowest risk** to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
+   ```diff
+   We would recommend Gold for the lowest risk at the end of the year
+   ```
 
 # Dataset(s) to be used:
 
@@ -50,17 +53,6 @@ Our research questions to answer:
 
 3) S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
 
-# Rough breakdown of tasks:
-1) Read Me created
-2) Google Colab folder created
-3) Project Charter decided on
-4) Data identified
-5) Data downloaded as CSV
-6) Data CSVs uploaded to Colab folder
-7) Presentation Created
-8) Demo outlined
-9) Presentation Completed in Class
-10) Github Link submitted in Project 1 submission by each team member
 
 # Project Requirements:
 **Requirements**
