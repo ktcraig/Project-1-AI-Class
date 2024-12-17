@@ -1,9 +1,9 @@
-# Project 1: Investing in 2025
+![alt text](https://github.com/ktcraig/Project-1-AI-Class/blob/main/Money%20Miners%20Header.png)
 
-# Team: Money Miners
-Team 5: Joel Freeman, Roderick Burroughs, Katie Craig, Sowmya Shetty, Matthew Ward, Pablo Romero
 
-TA: Rimi
+**Team Members**: Katie Craig, Sowmya Shetty, Matthew Ward, Joel Freeman, Pablo Romero, Roderick Burroughs
+
+**TA**: Rimi
 
 # Summary:
 This reposity is the team Money Miner's Project 1 Class Repository. This is the public, group repository to organize our challenge about Project 1.
@@ -24,11 +24,27 @@ This repository contains:
 While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2014 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
 
 Our research questions to answer:
-1) What is the forecasted value of Bitcoin for 1 year from now? The value of Bitcoin is forecasted to be **$124,964.108004** on 12/29/25 (ythat)
-2) What is the forecasted value of Precious Metals (Gold) for 1 year from now? The value of Gold is forecasted to be **$3460.329886** on 12/29/25 (ythat)
-3) What is the forecasted value of Index Fund (SP500) for 1 year from now? The value of Gold is forecasted to be **$7522.829784** on 12/29/25 (ythat)
-4) Which fund would you recommend for the **highest yield** in 1 year: We would recommend **Bitcoin** for the highest yield at the end of the year
+1) What is the forecasted value of Bitcoin for 1 year from now?
+   ```diff
+   The value of Bitcoin is forecasted to be $124,964.108004 on 12/29/25 (ythat)
+    ```
+2) What is the forecasted value of Precious Metals (Gold) for 1 year from now?
+   ```diff
+   The value of Gold is forecasted to be $3460.329886 on 12/29/25 (ythat)
+    ```
+3) What is the forecasted value of Index Fund (SP500) for 1 year from now?
+   ```diff
+   The value of Gold is forecasted to be $7522.829784 on 12/29/25 (ythat)
+   ```
+4) Which fund would you recommend for the **highest yield** in 1 year:
+   ```diff
+   We would recommend Bitcoin for the highest yield at the end of the year
+   ```
+   
 5) Which fund would you recommend for **lowest risk** to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
+   ```diff
+   We would recommend Gold for the lowest risk at the end of the year
+   ```
 
 # Dataset(s) to be used:
 
@@ -38,17 +54,6 @@ Our research questions to answer:
 
 3) S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
 
-# Rough breakdown of tasks:
-1) Read Me created
-2) Google Colab folder created
-3) Project Charter decided on
-4) Data identified
-5) Data downloaded as CSV
-6) Data CSVs uploaded to Colab folder
-7) Presentation Created
-8) Demo outlined
-9) Presentation Completed in Class
-10) Github Link submitted in Project 1 submission by each team member
 
 # Project Requirements:
 **Requirements**
