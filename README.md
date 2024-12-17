@@ -1,8 +1,7 @@
 # Project 1: Investing in 2025
 
 # Team: Money Miners
-Team 5: Joel Freeman, Roderick Burroughs, Katie Craig, Sowmya Shetty, Matthew Ward, Pablo Romero
-
+Team 5: Katie Craig, Sowmya Shetty, Matthew Ward, Joel Freeman, Pablo Romero, Roderick Burroughs
 TA: Rimi
 
 # Summary:
@@ -25,22 +24,23 @@ While working for a large equity-trading company, you’re tasked with researchi
 
 Our research questions to answer:
 1) What is the forecasted value of Bitcoin for 1 year from now?
-
+   ```diff
    The value of Bitcoin is forecasted to be **$124,964.108004** on 12/29/25 (ythat)
-   
+    ```
 4) What is the forecasted value of Precious Metals (Gold) for 1 year from now?
    
    The value of Gold is forecasted to be **$3460.329886** on 12/29/25 (ythat)
-   
+    ```
 6) What is the forecasted value of Index Fund (SP500) for 1 year from now?
-   
+   ```diff
    The value of Gold is forecasted to be **$7522.829784** on 12/29/25 (ythat)
-   
+   ```
 8) Which fund would you recommend for the **highest yield** in 1 year:
-
+   ```diff
    We would recommend **Bitcoin** for the highest yield at the end of the year
+   ```
    
-9) Which fund would you recommend for **lowest risk** to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
+10) Which fund would you recommend for **lowest risk** to return on investment in 1 year: **Bitcoin, Precious Metals, or an Index Fund**
 
 # Dataset(s) to be used:
 
