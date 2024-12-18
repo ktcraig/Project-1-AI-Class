@@ -71,6 +71,10 @@ The following resources were used in the analysis of this project:
 
 **Panda functions** For pip installing prophet, datetime, matplotlib, gdown, pyplot, hvplot, google.colab, and numpy
 
+hvplot:  https://hvplot.holoviz.org/
+
+gdown:  https://ctshizubu.medium.com/download-data-from-anywhere-into-google-colab-using-gdown-eb6ab383875c
+
 **ChatGPT** For assistance on calculating beta values
 
 **Stackoverflow** For references to formatting readme and markdowns
