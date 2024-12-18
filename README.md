@@ -6,36 +6,41 @@
 **TA**: Rimi
 
 # Summary:
-This reposity is the team Money Miner's Project 1 Class Repository. This is the public, group repository to organize our challenge about Project 1.
+This repository is the team Money Miner's Project 1 Class Repository. This is the public, group repository to organize our challenge about Project 1.
 
 This repository contains:
 
 1) Project Requirements
 
-2) Source Data
+2) Project Code
 
-3) Project Code
+3) Source Code References
 
-4) Source Code References
+4) Final Presentation
 
-5) Final Presentation
+# Download instructions:
+
 
 # Research question(s) to answer:
 While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2014 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
 
 Our research questions to answer:
+
 1) What is the forecasted value of Bitcoin for 1 year from now?
    ```diff
    The value of Bitcoin is forecasted to be $124,964.108004 on 12/29/25 (ythat)
     ```
+   
 2) What is the forecasted value of Precious Metals (Gold) for 1 year from now?
    ```diff
    The value of Gold is forecasted to be $3460.329886 on 12/29/25 (ythat)
     ```
+   
 3) What is the forecasted value of Index Fund (SP500) for 1 year from now?
    ```diff
    The value of Gold is forecasted to be $7522.829784 on 12/29/25 (ythat)
    ```
+   
 4) Which fund would you recommend for the **highest yield** in 1 year:
    ```diff
    We would recommend Bitcoin for the highest yield at the end of the year
@@ -46,13 +51,18 @@ Our research questions to answer:
    We would recommend Gold for the lowest risk at the end of the year
    ```
 
-# Dataset(s) to be used:
+# Datasets(s) to be used:
 
 1) Data Bitcoin Price: https://www.investing.com/crypto/bitcoin/historical-data
 
 2) Gold Price: https://www.investing.com/commodities/gold-historical-data
 
 3) S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
+
+# Summary Analysis:
+```diff
+We analyzed the price of each stock from 2019 to 2024 to identify trends and load the data into the Prophet model to forecast the future. Bitcoin was the leader of price in 1 year at the end of 2025 with a value of $124,964.10 on 12/29/25 (ythat value). Calculating the price over time was the easy part though. Practically, it was easy to tell that Bitcoin would answer our first question of the highest return in 1 year for our client. We created a base notebook for bitcoin to compare price over time, calculate stock volatility and then visualize the differences graphically. We then copied this notebook for Gold and SP500 data and modified respectively for the differences in data. We still struggled with quantifying how volatile a stock was though. This is where we investigated Standard Deviation, Average True Range and Beta which we will explore in our recommendations.Using SP500 as the benchmark, we quantified the beta values for bitcoin and gold respectively. This will give our client a quantifiable value for what is the riskiest stock versus only looking on stock volatility. The beta for gold was 0.07232706930965804 which made it the least risky stock compared to SP500. The beta for bitcoin was 1.0284655818228168, making it the riskiest stock out of the 3 we analyzed.
+```
 
 
 # Project Requirements:
