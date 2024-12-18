@@ -23,6 +23,7 @@ This repository contains:
 Download the following files to run the notebook:
 
 Code File: **Money Miners.ipynb** Main Branch Notebook
+
 Data CSVs for resources: **Bitcoin_Data.csv**, **SP500_Data.csv**, **Gold_Data.csv**
 
 
