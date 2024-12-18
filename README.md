@@ -20,6 +20,11 @@ This repository contains:
 
 # Download instructions:
 
+Download the following files to run the notebook:
+
+Code File: **Money Miners.ipynb** Main Branch Notebook
+Data CSVs for resources: **Bitcoin_Data.csv**, **SP500_Data.csv**, **Gold_Data.csv**
+
 
 # Project Overview and Research questions to answer:
 While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
@@ -58,6 +63,17 @@ Our research questions to answer:
 2) Gold Price: https://www.investing.com/commodities/gold-historical-data
 
 3) S&P 500 Data: https://www.nasdaq.com/market-activity/index/spx/historical
+
+# Resources:
+
+The following resources were used in the analysis of this project:
+
+**Panda functions** For pip installing prophet, datetime, matplotlib, gdown, pyplot, hvplot, google.colab, and numpy
+
+**ChatGPT** For assistance on calculating beta values
+
+**Stackoverflow** For references to formatting readme and markdowns
+
 
 # Summary Analysis:
 
