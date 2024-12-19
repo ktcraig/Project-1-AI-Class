@@ -28,7 +28,7 @@ Data CSVs for resources: **Bitcoin_Data.csv**, **SP500_Data.csv**, **Gold_Data.c
 
 # Presentation:
 
-Filename (Google Slides): "**Project 1: MoneyMiners Investment Forecasts**"
+Filename (Google Slides): "**Project_1_MoneyMiners_Investment_Forecasts_Final.pptx**"
 
 # Project Overview and Research questions to answer:
 While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
