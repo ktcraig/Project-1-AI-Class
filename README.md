@@ -31,7 +31,7 @@ These files are linked into the notebook via gdown.
 
 # Presentation:
 
-Filename (Google Slides): "**Final Presentation.pptx**"
+Filename: "**Final Presentation.pptx**" (download and open in Google Slides.
 
 # Project Overview and Research questions to answer:
 While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
