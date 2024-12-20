@@ -1,5 +1,4 @@
-![alt text](https://github.com/ktcraig/Project-1-AI-Class/blob/main/Money%20Miners%20Header.png)
-
+![Alt Text](https://github.com/ktcraig/Project-1-AI-Class/blob/c279be5c7ccfbf8c2e0707f3fe250516db5b2ab3/Supporting%20Documents/Money%20Miners%20Header.png)
 
 **Team Members**: Katie Craig, Sowmya Shetty, Matthew Ward, Joel Freeman, Pablo Romero, Roderick Burroughs
 
@@ -14,9 +13,11 @@ This repository contains:
 
 2) Project Code
 
-3) Source Code References
+3) Data Utilized
 
-4) Final Presentation
+4) Source Code References
+
+5) Final Presentation
 
 # Download instructions:
 
@@ -24,11 +25,13 @@ Download the following files to run the notebook:
 
 Code File: **Money Miners.ipynb** Main Branch Notebook
 
-Data CSVs for resources: **Bitcoin_Data.csv**, **SP500_Data.csv**, **Gold_Data.csv**
+Data CSVs within Resources folder: **Bitcoin_Data.csv**, **SP500_Data.csv**, **Gold_Data.csv** 
+
+These files are linked into the notebook via gdown.
 
 # Presentation:
 
-Filename (Google Slides): "**Project_1_MoneyMiners_Investment_Forecasts_Final.pptx**"
+Filename (Google Slides): "**Final Presentation.pptx**"
 
 # Project Overview and Research questions to answer:
 While working for a large equity-trading company, you’re tasked with researching next steps for a client’s portfolio. Your client is unsure of where they should invest, Bitcoin, Precious Metals or an Index Fund, and needs expert analysis to make the right decision. Using S&P 500 data from 2019 to 2024, we will analyze the current stock prices and which investment will yield the highest return while using the Prophet model. 
